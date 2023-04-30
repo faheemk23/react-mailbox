@@ -11,7 +11,7 @@ This project is made with React, vanilla CSS.
 
 *Implemented various operations on the mail app using useReducer.
 
-    Implemented filters to show unread emails and to show starred emails with the help of checkbox. Initially these checkboxes should are be selected.
+    Implemented filters to show unread emails and to show starred emails with the help of checkbox. Initially these checkboxes are not selected.
 
     Star and un-star an email.
 
@@ -29,7 +29,8 @@ This project is made with React, vanilla CSS.
 
 ## Preview:
 
-![mailapp](https://user-images.githubusercontent.com/121616994/211199740-c0876e57-2baf-4cee-94bb-c77d67a47e72.jpg)
+![mailapp](![image](https://user-images.githubusercontent.com/121616994/235379427-d5a9126e-b375-4246-b94b-befe526c28e4.png)
+)
 
 
 Hope you like it!
