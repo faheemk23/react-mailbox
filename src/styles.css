@@ -1,0 +1,87 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+.nav-link {
+  display: block;
+  margin-top: 1.5rem;
+  text-decoration: none;
+  color: #666666;
+  padding: 1rem;
+}
+
+.app-heading {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  gap: 1rem;
+}
+
+.col {
+  flex-grow: 1;
+}
+
+.mail-list {
+  list-style: none;
+  border: 1px solid #d7d5d5;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 0.5rem;
+}
+
+button {
+  background-color: white;
+  border: none;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.mail-content {
+  margin: 0rem;
+}
+
+.back-link {
+  text-decoration: none;
+  font-size: 1.3rem;
+}
+
+.viewdetail-link {
+  text-decoration: none;
+  display: block;
+  color: black;
+  padding: 1rem 0;
+  font-size: 1rem;
+}
+
+.btn-delete {
+  color: red;
+}
+
+button.btnwithstar {
+  font-size: 2rem;
+  padding: 0rem 0.7rem;
+}
+
+.btn-unstar {
+  background-color: #ffe920;
+}
+
+.btn-mark-read-unread {
+  color: orange;
+}
+
+.btn-report-spam {
+  color: green;
+}
+
+.btn-flex {
+  display: flex;
+  justify-content: space-between;
+}
+/* justify-content:space-between */
+/*    */
