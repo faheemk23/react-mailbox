@@ -29,8 +29,7 @@ This project is made with React, vanilla CSS.
 
 ## Preview:
 
-![mailapp](![image](https://user-images.githubusercontent.com/121616994/235379427-d5a9126e-b375-4246-b94b-befe526c28e4.png)
-)
+![preview](https://user-images.githubusercontent.com/121616994/235379520-ca79aedf-d83e-4600-a158-808480d3bf35.jpg)
 
 
 Hope you like it!
